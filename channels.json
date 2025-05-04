@@ -3,14 +3,9 @@
   "channelsVersion": 1,
   "channels": [
     {
+      "id": "tf1",
       "name": "TF1",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png",
-      "sources": [
-        {
-          "source": "ParaTV",
-          "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8"
-        }
-      ]
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png"
       , "genre": "Généraliste"
       , "pays": "FR"
       , "langue": "FR"
