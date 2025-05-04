@@ -1,0 +1,20 @@
+[
+  {
+    "id": "tf1",
+    "sources": [
+      {
+        "source": "ParaTV",
+        "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "france2",
+      "sources": [
+        {
+          "source": "ParaTV",
+          "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8"
+      }  
+    ]  
+  }  
+]
