@@ -3,7 +3,7 @@
   "channelsVersion": 1,
   "channels": [
     {
-      "id": "tf1",
+      "id": "TF1.fr",
       "name": "TF1",
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png"
       , "genre": "Généraliste"
