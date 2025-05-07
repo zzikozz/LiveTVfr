@@ -5,6 +5,10 @@
       {
         "source": "ParaTV",
         "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8"
+      },
+      {
+        "source": "shumijo/iptv",
+        "link": "https://github.com/schumijo/iptv/blob/main/playlists/mytf1/tf1.m3u8"
       }
     ]
   },
