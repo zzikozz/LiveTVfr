@@ -9,6 +9,10 @@
       {
         "source": "shumijo/iptv",
         "link": "https://github.com/schumijo/iptv/blob/main/playlists/mytf1/tf1.m3u8"
+      },
+      {
+        "source": "Stream4free Live",
+        "link": "https://www.stream4free.tv/tf1-live-streaming"
       }
     ]
   },
