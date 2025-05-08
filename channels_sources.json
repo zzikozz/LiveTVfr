@@ -13,6 +13,18 @@
       {
         "source": "Stream4free Live",
         "link": "https://www.stream4free.tv/tf1-live-streaming"
+      },
+      {
+        "source": "AZROTV",
+        "link": "https://azrotv.com/m3u8/fr/?id=tf1"
+      },
+      {
+        "source": "Live HDTV #1",
+        "link": "https://www.livehdtv.com/ch123/1/tf1"
+      },
+      {
+        "source": "RankStreams",
+        "link": "https://rankstreams.xyz/RzjSS5j9fK/hbaGtnjc2R/24133.m3u8"
       }
     ]
   },
