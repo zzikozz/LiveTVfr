@@ -9,6 +9,14 @@
       , "genre": "Généraliste"
       , "pays": "FR"
       , "langue": "FR"
+    },
+    {
+      "id": "FRANCE2.fr",
+      "name": "France 2",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100"
+      , "genre": "Généraliste"
+      , "pays": "FR"
+      , "langue": "FR"
     }
   ]
 }
