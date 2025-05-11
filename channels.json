@@ -13,7 +13,7 @@
     {
       "id": "France2.fr",
       "name": "France 2",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/330px-Aljazeera_eng.svg.png"
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100"
       , "genre": "Généraliste"
       , "pays": "FR"
       , "langue": "FR"
@@ -21,7 +21,7 @@
     {
       "id": "AlJazeera",
       "name": "Al Jazeera",
-      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100"
+      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/330px-Aljazeera_eng.svg.png"
       , "genre": "News"
       , "pays": "QA"
       , "langue": "AR"
