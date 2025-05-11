@@ -17,6 +17,14 @@
       , "genre": "Généraliste"
       , "pays": "FR"
       , "langue": "FR"
+    },
+    {
+      "id": "AlJazeera",
+      "name": "Al Jazeera",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100"
+      , "genre": "News"
+      , "pays": "QA"
+      , "langue": "AR"
     }
   ]
 }
