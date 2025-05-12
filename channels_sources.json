@@ -19,7 +19,8 @@
         "link": "https://azrotv.com/m3u8/fr/?id=tf1"
       },
       {
-        "source": "Live HDTV #1",
+        "source": "Live HDTV / En Direct TV",
+        "label": "Live HDTV #1",
         "link": "https://www.livehdtv.com/ch123/1/tf1"
       },
       {
@@ -32,8 +33,9 @@
     "id": "France2.fr",
     "sources": [
       {
-        "source": "iptv-org",
-        "link": "http://69.64.57.208/france2/mono.m3u8"
+        "source": "Live HDTV / En Direct TV",
+        "label": "En Direct TV #1",
+        "link": "https://endirecttv.com/france-2-direct/1/"
       }
     ]
   }
