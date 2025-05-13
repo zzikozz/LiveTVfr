@@ -17,6 +17,7 @@
       {
         "source": "Live HDTV / En Direct TV",
         "label": "Live HDTV #1",
+        "param": "tf1",
         "link": "https://www.livehdtv.com/ch123/1/tf1"
       },
       {
@@ -31,6 +32,7 @@
       {
         "source": "Live HDTV / En Direct TV",
         "label": "En Direct TV #1",
+        "param": "cekyaa",
         "link": "https://endirecttv.com/france-2-direct/1/"
       },
       {
