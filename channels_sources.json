@@ -32,10 +32,13 @@
         "source": "Live HDTV / En Direct TV",
         "label": "En Direct TV #1",
         "link": "https://endirecttv.com/france-2-direct/1/"
-      }
+      },
+      {
+        "source": "Stream4free Live",
+        "link": "https://www.stream4free.tv/france-2-direct"
+      },
     ]
-  }
-  ,
+  },
   {
     "id": "AlJazeera",
     "sources": [
