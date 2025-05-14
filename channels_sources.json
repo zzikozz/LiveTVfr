@@ -3,6 +3,10 @@
     "id": "TF1.fr",
     "sources": [
       {
+        "source": "Frembed",
+        "link": "https://frembed.club/live-tv/tf1/27"
+      },
+      {
         "source": "ParaTV",
         "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8"
       },
