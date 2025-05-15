@@ -4,6 +4,7 @@
     "sources": [
       {
         "source": "Frembed",
+        "param": "https://play.frembed.club/",
         "link": "https://play.frembed.club/api/player.php?id=27"
       },
       {
