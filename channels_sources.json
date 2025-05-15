@@ -47,11 +47,60 @@
     ]
   },
   {
+    "id": "France3.fr",
+    "sources": [
+      {
+        "source": "Live HDTV / En Direct TV",
+        "label": "En Direct TV #1",
+        "param": "france3",
+        "link": "https://endirecttv.com/france-3-direct/1/"
+      },
+      {
+        "source": "Stream4free Live",
+        "link": "https://www.stream4free.tv/france-3-direct"
+      }
+    ]
+  },
+  {
+    "id": "France4.fr",
+    "sources": [
+      {
+        "source": "Live HDTV / En Direct TV",
+        "label": "En Direct TV #1",
+        "param": "france4",
+        "link": "https://endirecttv.com/france-4-direct/1/"
+      },
+      {
+        "source": "Stream4free Live",
+        "link": "https://www.stream4free.tv/france-4-direct"
+      }
+    ]
+  },
+  {
+    "id": "France5.fr",
+    "sources": [
+      {
+        "source": "Live HDTV / En Direct TV",
+        "label": "En Direct TV #1",
+        "param": "france4",
+        "link": "https://endirecttv.com/france-5-direct/1/"
+      },
+      {
+        "source": "Stream4free Live",
+        "link": "https://www.stream4free.tv/france-5-direct"
+      }
+    ]
+  },
+  {
     "id": "CanalPlus.fr",
     "sources": [
       {
         "source": "Dailymotion",
         "link": "https://www.dailymotion.com/video/x5gv6be"
+      },
+      {
+        "source": "ParaTV",
+        "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8"
       }
     ]
   },
