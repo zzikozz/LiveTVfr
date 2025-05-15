@@ -19,6 +19,22 @@
       , "langue": "FR"
     },
     {
+      "id": "France3.fr",
+      "name": "France 3",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100"
+      , "genre": "Généraliste"
+      , "pays": "FR"
+      , "langue": "FR"
+    },
+    {
+      "id": "France4.fr",
+      "name": "France 4",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100"
+      , "genre": "Généraliste"
+      , "pays": "FR"
+      , "langue": "FR"
+    },
+    {
       "id": "CanalPlus.fr",
       "name": "Canal+",
       "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100"
@@ -27,9 +43,17 @@
       , "langue": "FR"
     },
     {
+      "id": "France5.fr",
+      "name": "France 5",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png?h=100"
+      , "genre": "Généraliste"
+      , "pays": "FR"
+      , "langue": "FR"
+    },
+    {
       "id": "AlJazeera",
       "name": "Al Jazeera",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/330px-Aljazeera_eng.svg.png"
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/120px-Al_Jazeera.svg.png"
       , "genre": "News"
       , "pays": "QA"
       , "langue": "AR"
