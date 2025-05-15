@@ -47,6 +47,15 @@
     ]
   },
   {
+    "id": "CanalPlus.fr",
+    "sources": [
+      {
+        "source": "Dailymotion",
+        "link": "https://www.dailymotion.com/video/x5gv6be"
+      }
+    ]
+  }
+  {
     "id": "AlJazeera",
     "sources": [
       {
