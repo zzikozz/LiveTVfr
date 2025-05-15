@@ -19,6 +19,14 @@
       , "langue": "FR"
     },
     {
+      "id": "CanalPlus.fr",
+      "name": "Canal+",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100"
+      , "genre": "Généraliste"
+      , "pays": "FR"
+      , "langue": "FR"
+    },
+    {
       "id": "AlJazeera",
       "name": "Al Jazeera",
       "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/330px-Aljazeera_eng.svg.png"
