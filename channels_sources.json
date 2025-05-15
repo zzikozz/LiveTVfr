@@ -4,7 +4,7 @@
     "sources": [
       {
         "source": "Frembed",
-        "link": "https://frembed.club/live-tv/tf1/27"
+        "link": "https://play.frembed.club/api/player.php?id=27"
       },
       {
         "source": "ParaTV",
