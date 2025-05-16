@@ -1,6 +1,6 @@
 {
-  "appVersion": "LiveTVfr.v0.1-beta.AndroidTV",
-  "channelsVersion": 4,
+  "appVersion": "LiveTVfr.v0.11-beta.AndroidTV",
+  "channelsVersion": 5,
   "channels": [
     {
       "id": "TF1.fr",
@@ -35,14 +35,6 @@
       "langue": "FR"
     },
     {
-      "id": "CanalPlus.fr",
-      "name": "Canal+",
-      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100",
-      "genre": "Généraliste",
-      "pays": "FR",
-      "langue": "FR"
-    },
-    {
       "id": "France5.fr",
       "name": "France 5",
       "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png?h=100",
@@ -62,6 +54,30 @@
       "id": "Arte.fr",
       "name": "Arte",
       "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100",
+      "genre": "Généraliste",
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "LaChaineParlementaire.fr",
+      "name": "La Chaîne parlementaire",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100",
+      "genre": "Généraliste",
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "W9.fr",
+      "name": "W9",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/W9_color.png?h=100",
+      "genre": "Généraliste",
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "CanalPlus.fr",
+      "name": "Canal+",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100",
       "genre": "Généraliste",
       "pays": "FR",
       "langue": "FR"
