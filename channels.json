@@ -1,62 +1,78 @@
 {
   "appVersion": "LiveTVfr.v0.1-beta.AndroidTV",
-  "channelsVersion": 3,
+  "channelsVersion": 4,
   "channels": [
     {
       "id": "TF1.fr",
       "name": "TF1",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png"
-      , "genre": "Généraliste"
-      , "pays": "FR"
-      , "langue": "FR"
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png",
+      "genre": "Généraliste",
+      "pays": "FR",
+      "langue": "FR"
     },
     {
       "id": "France2.fr",
       "name": "France 2",
-      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100"
-      , "genre": "Généraliste"
-      , "pays": "FR"
-      , "langue": "FR"
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100",
+      "genre": "Généraliste",
+      "pays": "FR",
+      "langue": "FR"
     },
     {
       "id": "France3.fr",
       "name": "France 3",
-      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100"
-      , "genre": "Généraliste"
-      , "pays": "FR"
-      , "langue": "FR"
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100",
+      "genre": "Généraliste",
+      "pays": "FR",
+      "langue": "FR"
     },
     {
       "id": "France4.fr",
       "name": "France 4",
-      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100"
-      , "genre": "Généraliste"
-      , "pays": "FR"
-      , "langue": "FR"
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100",
+      "genre": "Généraliste",
+      "pays": "FR",
+      "langue": "FR"
     },
     {
       "id": "CanalPlus.fr",
       "name": "Canal+",
-      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100"
-      , "genre": "Généraliste"
-      , "pays": "FR"
-      , "langue": "FR"
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100",
+      "genre": "Généraliste",
+      "pays": "FR",
+      "langue": "FR"
     },
     {
       "id": "France5.fr",
       "name": "France 5",
-      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png?h=100"
-      , "genre": "Généraliste"
-      , "pays": "FR"
-      , "langue": "FR"
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png?h=100",
+      "genre": "Généraliste",
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "M6.fr",
+      "name": "M6",
+      "logo": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/M6100x100.png?h=100",
+      "genre": "Généraliste",
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "Arte.fr",
+      "name": "Arte",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100",
+      "genre": "Généraliste",
+      "pays": "FR",
+      "langue": "FR"
     },
     {
       "id": "AlJazeera",
       "name": "Al Jazeera",
-      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/120px-Al_Jazeera.svg.png"
-      , "genre": "News"
-      , "pays": "QA"
-      , "langue": "AR"
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/120px-Al_Jazeera.svg.png",
+      "genre": "News",
+      "pays": "QA",
+      "langue": "AR"
     }
   ]
 }
