@@ -92,6 +92,28 @@
     ]
   },
   {
+    "id": "M6.fr",
+    "sources": [
+      {
+        "source": "AZROTV",
+        "link": "https://azrotv.com/local/drPlayer/shaka.php?id=m6"
+      }
+    ]
+  },
+  {
+    "id": "W9.fr",
+    "sources": [
+      {
+        "source": "AZROTV",
+        "link": "https://azrotv.com/local/drPlayer/shaka.php?id=w9"
+      },
+      {
+        "source": "Stream4free Live",
+        "link": "https://www.stream4free.tv/w9-france"
+      }
+    ]
+  },
+  {
     "id": "CanalPlus.fr",
     "sources": [
       {
