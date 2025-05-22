@@ -52,6 +52,16 @@
     ]
   },
   {
+    "id": "Gulli.fr",
+    "sources": [
+      {
+        "source": "Live HDTV / En Direct TV",
+        "label": "Live HDTV #1",
+        "link": "https://www.livehdtv.com/gulli/1/"
+      }
+    ]
+  },
+  {
     "id": "France2.fr",
     "sources": [
       {
