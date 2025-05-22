@@ -32,6 +32,26 @@
     ]
   },
   {
+    "id": "NT1.fr",
+    "sources": [
+      {
+        "source": "Frembed",
+        "param": "https://play.frembed.club/",
+        "link": "https://play.frembed.club/api/player.php?id=16"
+      }
+    ]
+  },
+  {
+    "id": "TMC.fr",
+    "sources": [
+      {
+        "source": "Frembed",
+        "param": "https://play.frembed.club/",
+        "link": "https://play.frembed.club/api/player.php?id=17"
+      }
+    ]
+  },
+  {
     "id": "France2.fr",
     "sources": [
       {
@@ -122,11 +142,21 @@
       },
       {
         "source": "Dailymotion",
+        "label": "Dailymotion (En clair)",
         "link": "https://www.dailymotion.com/video/x5gv6be"
       },
       {
         "source": "ParaTV",
         "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "Arte.fr",
+    "sources": [
+      {
+        "source": "RankStreams",
+        "link": "https://rankstreams.xyz/RzjSS5j9fK/hbaGtnjc2R/23884.m3u8"
       }
     ]
   },
