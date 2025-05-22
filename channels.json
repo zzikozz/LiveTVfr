@@ -1,84 +1,212 @@
 {
-  "appVersion": "LiveTVfr.v0.11-beta.AndroidTV",
-  "channelsVersion": 5,
+  "appVersion": "LiveTVfr.v0.18-beta.AndroidTV",
+  "channelsVersion": 6,
   "channels": [
     {
-      "id": "TF1.fr",
-      "name": "TF1",
-      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png",
-      "genre": "Généraliste",
-      "pays": "FR",
-      "langue": "FR"
-    },
-    {
-      "id": "France2.fr",
-      "name": "France 2",
-      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100",
-      "genre": "Généraliste",
-      "pays": "FR",
-      "langue": "FR"
-    },
-    {
-      "id": "France3.fr",
-      "name": "France 3",
-      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100",
-      "genre": "Généraliste",
-      "pays": "FR",
-      "langue": "FR"
-    },
-    {
-      "id": "France4.fr",
-      "name": "France 4",
-      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100",
-      "genre": "Généraliste",
-      "pays": "FR",
-      "langue": "FR"
-    },
-    {
-      "id": "France5.fr",
-      "name": "France 5",
-      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png?h=100",
-      "genre": "Généraliste",
-      "pays": "FR",
-      "langue": "FR"
-    },
-    {
-      "id": "M6.fr",
-      "name": "M6",
-      "logo": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/M6100x100.png?h=100",
-      "genre": "Généraliste",
-      "pays": "FR",
-      "langue": "FR"
-    },
-    {
-      "id": "Arte.fr",
-      "name": "Arte",
-      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100",
-      "genre": "Généraliste",
-      "pays": "FR",
-      "langue": "FR"
-    },
-    {
-      "id": "LaChaineParlementaire.fr",
-      "name": "La Chaîne parlementaire",
-      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100",
-      "genre": "Généraliste",
-      "pays": "FR",
-      "langue": "FR"
-    },
-    {
-      "id": "W9.fr",
-      "name": "W9",
-      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/W9_color.png?h=100",
-      "genre": "Généraliste",
-      "pays": "FR",
-      "langue": "FR"
-    },
+    "id": "TF1.fr",
+    "name": "TF1",
+    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png",
+    "tags": ["GÉNÉRALISTE", "DIVERTISSEMENT", "SÉRIES"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "France2.fr",
+    "name": "France 2",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100",
+    "tags": ["GÉNÉRALISTE", "PUBLIQUE"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "France3.fr",
+    "name": "France 3",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100",
+    "tags": ["GÉNÉRALISTE", "RÉGIONALE", "PUBLIQUE"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "France4.fr",
+    "name": "France 4",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100",
+    "tags": ["JEUNESSE", "FAMILLE", "PUBLIQUE"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "France5.fr",
+    "name": "France 5",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png?h=100",
+    "tags": ["DOCUMENTAIRE", "CULTURE", "PUBLIQUE"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "M6.fr",
+    "name": "M6",
+    "logo": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/M6100x100.png?h=100",
+    "tags": ["GÉNÉRALISTE", "DIVERTISSEMENT", "SÉRIES"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "Arte.fr",
+    "name": "Arte",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100",
+    "tags": ["CULTURE", "DOCUMENTAIRE", "PUBLIQUE"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "LaChaineParlementaire.fr",
+    "name": "LCP / Public Sénat",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100",
+    "tags": ["POLITIQUE", "INFORMATION", "PUBLIQUE"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "W9.fr",
+    "name": "W9",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/W9_color.png?h=100",
+    "tags": ["DIVERTISSEMENT", "MUSIQUE", "SÉRIES"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "TMC.fr",
+    "name": "TMC",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100",
+    "tags": ["DIVERTISSEMENT", "MAGAZINE", "SÉRIES"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "NT1.fr",
+    "name": "TFX",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100",
+    "tags": ["TÉLÉ-RÉALITÉ", "JEUNESSE", "DIVERTISSEMENT"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "Gulli.fr",
+    "name": "Gulli",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Gulli_color.png?h=100",
+    "tags": ["ENFANT", "JEUNESSE", "FAMILLE"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "BFMTV.fr",
+    "name": "BFMTV",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/BFMTV_color.png?h=100",
+    "tags": ["INFORMATION", "ACTUALITÉ"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "CNews.fr",
+    "name": "CNews",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/CNEWS_color.png?h=100",
+    "tags": ["INFORMATION", "DÉBAT"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "LCI.fr",
+    "name": "LCI",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100",
+    "tags": ["INFORMATION", "ANALYSE"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "Franceinfo.fr",
+    "name": "Franceinfo",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Franceinfo_color.png?h=100",
+    "tags": ["INFORMATION", "PUBLIQUE"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "CStar.fr",
+    "name": "CStar",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/CSTAR_color.png?h=100",
+    "tags": ["MUSIQUE", "DIVERTISSEMENT"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "CMITV.fr",
+    "name": "CMI TV",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/CMITV_color.png?h=100",
+    "tags": ["INFORMATION", "LOCALE"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "OFTV.fr",
+    "name": "OFTV",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/OFTV_color.png?h=100",
+    "tags": ["INFORMATION", "LOCALE"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "TF1SeriesFilms.fr",
+    "name": "TF1 Séries Films",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100",
+    "tags": ["SÉRIES", "FILMS"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "LEquipe21.fr",
+    "name": "L'Équipe",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LEquipe_color.png?h=100",
+    "tags": ["SPORT", "INFORMATION"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "6ter.fr",
+    "name": "6ter",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/6ter_color.png?h=100",
+    "tags": ["FAMILLE", "DOCUMENTAIRE", "SÉRIES"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "RMCStory.fr",
+    "name": "RMC Story",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Story_color.png?h=100",
+    "tags": ["DOCUMENTAIRE", "FAITS DIVERS"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "RMCDecouverte.fr",
+    "name": "RMC Découverte",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Decouverte_color.png?h=100",
+    "tags": ["DOCUMENTAIRE", "SCIENCES", "HISTOIRE"],
+    "pays": "FR",
+    "langue": "FR"
+  },
+  {
+    "id": "Cherie25.fr",
+    "name": "Chérie 25",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Cherie_25_color.png?h=100",
+    "tags": ["FILMS", "SÉRIES", "FÉMININ"],
+    "pays": "FR",
+    "langue": "FR"
+  },
     {
       "id": "CanalPlus.fr",
       "name": "Canal+",
       "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100",
-      "genre": "Généraliste",
+      "tags": ["Généraliste"],
       "pays": "FR",
       "langue": "FR"
     },
@@ -86,7 +214,7 @@
       "id": "AlJazeera",
       "name": "Al Jazeera",
       "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/120px-Al_Jazeera.svg.png",
-      "genre": "News",
+      "tags": ["NEWS"],
       "pays": "QA",
       "langue": "AR"
     }
