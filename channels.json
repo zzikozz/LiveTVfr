@@ -1,6 +1,6 @@
 {
   "appVersion": "LiveTVfr.v0.18-beta.AndroidTV",
-  "channelsVersion": 6,
+  "channelsVersion": 7,
   "channels": [
     {
     "id": "TF1.fr",
@@ -101,7 +101,7 @@
   {
     "id": "BFMTV.fr",
     "name": "BFMTV",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/BFMTV_color.png?h=100",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100",
     "tags": ["INFORMATION", "ACTUALITÉ"],
     "pays": "FR",
     "langue": "FR"
@@ -109,7 +109,7 @@
   {
     "id": "CNews.fr",
     "name": "CNews",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/CNEWS_color.png?h=100",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100",
     "tags": ["INFORMATION", "DÉBAT"],
     "pays": "FR",
     "langue": "FR"
@@ -125,7 +125,7 @@
   {
     "id": "Franceinfo.fr",
     "name": "Franceinfo",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Franceinfo_color.png?h=100",
+    "logo": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/franceinfoblack100x100.png?h=100",
     "tags": ["INFORMATION", "PUBLIQUE"],
     "pays": "FR",
     "langue": "FR"
@@ -133,23 +133,23 @@
   {
     "id": "CStar.fr",
     "name": "CStar",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/CSTAR_color.png?h=100",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100",
     "tags": ["MUSIQUE", "DIVERTISSEMENT"],
     "pays": "FR",
     "langue": "FR"
   },
   {
-    "id": "CMITV.fr",
-    "name": "CMI TV",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/CMITV_color.png?h=100",
+    "id": "T18.fr",
+    "name": "T18",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/250px-Logo_de_la_chaine_T18.svg.png",
     "tags": ["INFORMATION", "LOCALE"],
     "pays": "FR",
     "langue": "FR"
   },
   {
-    "id": "OFTV.fr",
-    "name": "OFTV",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/OFTV_color.png?h=100",
+    "id": "NOVO19.fr",
+    "name": "NOVO19",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/330px-Logo_NOVO19_-_2025.svg.png",
     "tags": ["INFORMATION", "LOCALE"],
     "pays": "FR",
     "langue": "FR"
@@ -165,7 +165,7 @@
   {
     "id": "LEquipe21.fr",
     "name": "L'Équipe",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LEquipe_color.png?h=100",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100",
     "tags": ["SPORT", "INFORMATION"],
     "pays": "FR",
     "langue": "FR"
@@ -181,7 +181,7 @@
   {
     "id": "RMCStory.fr",
     "name": "RMC Story",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Story_color.png?h=100",
+    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_STORY_color.png?h=100",
     "tags": ["DOCUMENTAIRE", "FAITS DIVERS"],
     "pays": "FR",
     "langue": "FR"
