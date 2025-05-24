@@ -9,6 +9,7 @@
       },
       {
         "source": "ParaTV",
+        "label": "ParaTV - TF1+",
         "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8"
       },
       {
@@ -38,6 +39,11 @@
         "source": "Frembed",
         "param": "https://play.frembed.club/",
         "link": "https://play.frembed.club/api/player.php?id=16"
+      },
+{
+        "source": "ParaTV",
+        "label": "ParaTV - TF1+",
+        "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8"
       }
     ]
   },
@@ -48,6 +54,11 @@
         "source": "Frembed",
         "param": "https://play.frembed.club/",
         "link": "https://play.frembed.club/api/player.php?id=17"
+      },
+{
+        "source": "ParaTV",
+        "label": "ParaTV - TF1+",
+        "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8"
       }
     ]
   },
@@ -127,6 +138,10 @@
       {
         "source": "AZROTV",
         "link": "https://azrotv.com/local/drPlayer/shaka.php?id=m6"
+      },
+      {
+        "source": "Stream4free Live",
+        "link": "https://www.stream4free.tv/m6-live-streaming"
       }
     ]
   },
@@ -167,6 +182,11 @@
       {
         "source": "RankStreams",
         "link": "https://rankstreams.xyz/RzjSS5j9fK/hbaGtnjc2R/23884.m3u8"
+      },
+{
+        "source": "ParaTV",
+        "label": "ParaTV - TF1+",
+        "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/arte.m3u8"
       }
     ]
   },
@@ -176,6 +196,148 @@
       {
         "source": "Youtube",
         "link": "https://www.youtube.com/watch?v=bNyUyrR0PHo"
+      }
+    ]
+  },
+  {
+    "id": "KTO.fr",
+    "sources": [
+      {
+        "source": "Live HDTV / En Direct TV",
+        "label": "Live HDTV #1",
+        "param": "kto",
+        "link": "https://www.livehdtv.com/kto-tv/1/kto"
+      }
+    ]
+  },
+  {
+    "id": "FranceInfo.fr",
+    "sources": [
+      {
+        "source": "Live HDTV / En Direct TV",
+        "label": "Live HDTV #1",
+        "param": "franceinfo",
+        "link": "https://www.livehdtv.com/franceinfo/1/franceinfo"
+      },
+       {
+        "source": "Stream4free Live",
+        "link": "https://www.stream4free.tv/france-info-tv"
+      }
+    ]
+  },
+  {
+    "id": "BFMParis.fr",
+    "sources": [
+      {
+        "source": "Live HDTV / En Direct TV",
+        "label": "Live HDTV #1",
+        "param": "bfmparis",
+        "link": "https://www.livehdtv.com/bfm-paris/1/bfmparis"
+      }
+    ]
+  },
+  {
+    "id": "Cherie25.fr",
+    "sources": [
+      {
+        "source": "En Direct TV",
+        "label": "En Direct TV #1",
+        "param": "cherie25",
+        "link": "https://endirecttv.com/cherie-25-direct/1/cherie25"
+      }
+    ]
+  },
+  {
+    "id": "BFMTV.fr",
+    "sources": [
+      {
+        "source": "En Direct TV",
+        "label": "En Direct TV #1",
+        "param": "bfmtv",
+        "link": "https://endirecttv.com/bfm-tv-direct/1/bfmtv"
+      }
+    ]
+  },
+  {
+    "id": "LCI.fr",
+    "sources": [
+      {
+        "source": "En Direct TV",
+        "label": "En Direct TV #1",
+        "param": "lci",
+        "link": "https://endirecttv.com/lci-direct/"
+      },
+      {
+        "source": "ParaTV",
+        "label": "ParaTV - TF1+",
+        "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "TF1SeriesFilms.fr",
+    "sources": [
+      {
+        "source": "ParaTV",
+        "label": "ParaTV - TF1+",
+        "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8"
+      }
+    ]
+  }
+  ,
+  {
+    "id": "LEquipe21.fr",
+    "sources": [
+      {
+        "source": "ParaTV",
+        "label": "ParaTV - TF1+",
+        "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/l-equipe.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "LeFigaroTV",
+    "sources": [
+      {
+        "source": "ParaTV",
+        "label": "ParaTV - TF1+",
+        "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/le-figaro.m3u8"
+      }
+    ]
+  },
+  {
+    "id": "CStar.fr",
+    "sources": [
+      {
+        "source": "Dailymotion",
+        "link": "https://www.dailymotion.com/video/x5gv5v0"
+      }
+    ]
+  },
+  {
+    "id": "LaChaineParlementaire.fr",
+    "sources": [
+      {
+        "source": "Dailymotion",
+        "link": "https://www.dailymotion.com/video/xgepjr"
+      }
+    ]
+  },
+  {
+    "id": "TV5Monde.fr",
+    "sources": [
+      {
+        "source": "Stream4free Live",
+        "link": "https://www.stream4free.tv/tv5-hd"
+      }
+    ]
+  },
+  {
+    "id": "PlanetePlus.fr",
+    "sources": [
+      {
+        "source": "Stream4free Live",
+        "link": "https://www.stream4free.tv/france-info-tv"
       }
     ]
   }
