@@ -337,7 +337,25 @@
     "sources": [
       {
         "source": "Stream4free Live",
-        "link": "https://www.stream4free.tv/france-info-tv"
+        "link": "https://www.stream4free.tv/planete-plus"
+      }
+    ]
+  },
+  {
+    "id": "RMCDecouverte.fr",
+    "sources": [
+      {
+        "source": "Stream4free Live",
+        "link": "https://www.stream4free.tv/rmc-decouverte"
+      }
+    ]
+  },
+  {
+    "id": "Numero23.fr",
+    "sources": [
+      {
+        "source": "Stream4free Live",
+        "link": "https://www.stream4free.tv/rmc-story"
       }
     ]
   }
