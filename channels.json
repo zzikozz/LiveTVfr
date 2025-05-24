@@ -209,6 +209,29 @@
       "tags": ["Généraliste"],
       "pays": "FR",
       "langue": "FR"
+    },{
+      "id": "PlanetePlus.fr",
+      "name": "Planète+",
+      "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/PlanetePlus_2011.svg/202px-PlanetePlus_2011.svg.png",
+      "tags": ["Généraliste"],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "TV5Monde.fr",
+      "name": "TV5 Monde France Belgique Suisse Monaco",
+      "logo": "https://live.tv5monde.com/upload/vignettes/header_11979112d55e48c81087d6b631759108.png",
+      "tags": ["Généraliste"],
+      "pays": "FR",
+      "langue": "FR"
+    },
+     {
+      "id": "LeFigaroTV",
+      "name": "Le Figaro TV",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_432P1_axB3CeJUrziYKfN_mqTzsSdqT-A&s",
+      "tags": ["Généraliste"],
+      "pays": "FR",
+      "langue": "FR"
     },
     {
       "id": "AlJazeera",
