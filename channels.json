@@ -1,6 +1,6 @@
 {
   "appVersion": "LiveTVfr.v0.2-beta.AndroidTV",
-  "channelsVersion": 7,
+  "channelsVersion": 8,
   "channels": [
     {
     "id": "TF1.fr",
