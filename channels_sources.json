@@ -361,5 +361,59 @@
         "link": "https://popcdn.day/stream/RMCSTORY.php"
       }
     ]
+  },
+  {
+    "id": "beINSPORTS1.fr",
+    "sources": [
+      {
+        "source": "Frembed",
+        "param": "https://play.frembed.club/",
+        "link": "https://play.frembed.club/api/player.php?id=8"
+      }]
+  },
+  {
+    "id": "beINSPORTS2.fr",
+    "sources": [
+      {
+        "source": "Frembed",
+        "param": "https://play.frembed.club/",
+        "link": "https://play.frembed.club/api/player.php?id=9"
+      }]
+  },
+  {
+    "id": "beINSPORTS3.fr",
+    "sources": [
+      {
+        "source": "Frembed",
+        "param": "https://play.frembed.club/",
+        "link": "https://play.frembed.club/api/player.php?id=11"
+      }]
+  },
+  {
+    "id": "beINSPORTS1Ar",
+    "sources": [
+      {
+        "source": "Frembed",
+        "param": "https://play.frembed.club/",
+        "link": "https://play.frembed.club/api/player.php?id=82"
+      }]
+  },
+  {
+    "id": "beINSPORTS2Ar",
+    "sources": [
+      {
+        "source": "Frembed",
+        "param": "https://play.frembed.club/",
+        "link": "https://play.frembed.club/api/player.php?id=83"
+      }]
+  },
+  {
+    "id": "beINSPORTS3Ar",
+    "sources": [
+      {
+        "source": "Frembed",
+        "param": "https://play.frembed.club/",
+        "link": "https://play.frembed.club/api/player.php?id=84"
+      }]
   }
 ]
