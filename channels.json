@@ -240,6 +240,54 @@
       "tags": ["NEWS"],
       "pays": "QA",
       "langue": "AR"
+    },
+    {
+      "id": "beINSPORTS1.fr",
+      "name": "beIN SPORTS 1 FR",
+      "logo": "https://www.programme-tv.net/imgre/fit/~2~channel~8884f09c3361af44.png/1200x630/crop-from/top/quality/80/bein-sports-1.png",
+      "tags": ["SPORTS"],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "beINSPORTS2.fr",
+      "name": "beIN SPORTS 2 FR",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/960px-Logo_bein_sports_2.png",
+      "tags": ["SPORTS"],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "beINSPORTS3.fr",
+      "name": "beIN SPORTS 3 FR",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/960px-Logo_bein_sports_3.png",
+      "tags": ["SPORTS"],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "beINSPORTS1Ar",
+      "name": "beIN SPORTS 1 AR",
+      "logo": "https://www.programme-tv.net/imgre/fit/~2~channel~8884f09c3361af44.png/1200x630/crop-from/top/quality/80/bein-sports-1.png",
+      "tags": ["SPORTS"],
+      "pays": "QA",
+      "langue": "AR"
+    },
+    {
+      "id": "beINSPORTS2Ar",
+      "name": "beIN SPORTS 2 AR",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/960px-Logo_bein_sports_2.png",
+      "tags": ["SPORTS"],
+      "pays": "QA",
+      "langue": "AR"
+    },
+    {
+      "id": "beINSPORTS3Ar",
+      "name": "beIN SPORTS 3 FR",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/960px-Logo_bein_sports_3.png",
+      "tags": ["SPORTS"],
+      "pays": "QA",
+      "langue": "AR"
     }
   ]
 }
