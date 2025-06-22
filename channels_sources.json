@@ -146,6 +146,19 @@
     ]
   },
   {
+    "id": "6ter.fr",
+    "sources": [
+      {
+        "source": "AZROTV",
+        "link": "https://azrotv.com/local/drPlayer/shaka.php?id=6ter"
+      },
+      {
+        "source": "Stream4free Live",
+        "link": "https://www.stream4free.tv/6ter-france"
+      }
+    ]
+  },
+  {
     "id": "W9.fr",
     "sources": [
       {
