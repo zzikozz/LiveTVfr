@@ -1,219 +1,313 @@
 {
   "appVersion": "LiveTVfr.v0.2-beta.AndroidTV",
-  "channelsVersion": 8,
+  "channelsVersion": 9,
   "channels": [
     {
-    "id": "TF1.fr",
-    "name": "TF1",
-    "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png",
-    "tags": ["GÉNÉRALISTE", "DIVERTISSEMENT", "SÉRIES"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "France2.fr",
-    "name": "France 2",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100",
-    "tags": ["GÉNÉRALISTE", "PUBLIQUE"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "France3.fr",
-    "name": "France 3",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100",
-    "tags": ["GÉNÉRALISTE", "RÉGIONALE", "PUBLIQUE"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "France4.fr",
-    "name": "France 4",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100",
-    "tags": ["JEUNESSE", "FAMILLE", "PUBLIQUE"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "France5.fr",
-    "name": "France 5",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png?h=100",
-    "tags": ["DOCUMENTAIRE", "CULTURE", "PUBLIQUE"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "M6.fr",
-    "name": "M6",
-    "logo": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/M6100x100.png?h=100",
-    "tags": ["GÉNÉRALISTE", "DIVERTISSEMENT", "SÉRIES"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "Arte.fr",
-    "name": "Arte",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100",
-    "tags": ["CULTURE", "DOCUMENTAIRE", "PUBLIQUE"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "LaChaineParlementaire.fr",
-    "name": "LCP / Public Sénat",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100",
-    "tags": ["POLITIQUE", "INFORMATION", "PUBLIQUE"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "W9.fr",
-    "name": "W9",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/W9_color.png?h=100",
-    "tags": ["DIVERTISSEMENT", "MUSIQUE", "SÉRIES"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "TMC.fr",
-    "name": "TMC",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100",
-    "tags": ["DIVERTISSEMENT", "MAGAZINE", "SÉRIES"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "NT1.fr",
-    "name": "TFX",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100",
-    "tags": ["TÉLÉ-RÉALITÉ", "JEUNESSE", "DIVERTISSEMENT"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "Gulli.fr",
-    "name": "Gulli",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Gulli_color.png?h=100",
-    "tags": ["ENFANT", "JEUNESSE", "FAMILLE"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "BFMTV.fr",
-    "name": "BFMTV",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100",
-    "tags": ["INFORMATION", "ACTUALITÉ"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "CNews.fr",
-    "name": "CNews",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100",
-    "tags": ["INFORMATION", "DÉBAT"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "LCI.fr",
-    "name": "LCI",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100",
-    "tags": ["INFORMATION", "ANALYSE"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "FranceInfo.fr",
-    "name": "Franceinfo",
-    "logo": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/franceinfoblack100x100.png?h=100",
-    "tags": ["INFORMATION", "PUBLIQUE"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "CStar.fr",
-    "name": "CStar",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100",
-    "tags": ["MUSIQUE", "DIVERTISSEMENT"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "T18.fr",
-    "name": "T18",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/250px-Logo_de_la_chaine_T18.svg.png",
-    "tags": ["INFORMATION", "LOCALE"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "NOVO19.fr",
-    "name": "NOVO19",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/330px-Logo_NOVO19_-_2025.svg.png",
-    "tags": ["INFORMATION", "LOCALE"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "TF1SeriesFilms.fr",
-    "name": "TF1 Séries Films",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100",
-    "tags": ["SÉRIES", "FILMS"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "LEquipe21.fr",
-    "name": "L'Équipe",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100",
-    "tags": ["SPORT", "INFORMATION"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "6ter.fr",
-    "name": "6ter",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/6ter_color.png?h=100",
-    "tags": ["FAMILLE", "DOCUMENTAIRE", "SÉRIES"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "Numero23.fr",
-    "name": "RMC Story",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_STORY_color.png?h=100",
-    "tags": ["DOCUMENTAIRE", "FAITS DIVERS"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "RMCDecouverte.fr",
-    "name": "RMC Découverte",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Decouverte_color.png?h=100",
-    "tags": ["DOCUMENTAIRE", "SCIENCES", "HISTOIRE"],
-    "pays": "FR",
-    "langue": "FR"
-  },
-  {
-    "id": "Cherie25.fr",
-    "name": "Chérie 25",
-    "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Cherie_25_color.png?h=100",
-    "tags": ["FILMS", "SÉRIES", "FÉMININ"],
-    "pays": "FR",
-    "langue": "FR"
-  },
+      "id": "TF1.fr",
+      "name": "TF1",
+      "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tf1-fr.png",
+      "tags": [
+        "GÉNÉRALISTE",
+        "DIVERTISSEMENT",
+        "SÉRIES"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "France2.fr",
+      "name": "France 2",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png?h=100",
+      "tags": [
+        "GÉNÉRALISTE",
+        "PUBLIQUE"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "France3.fr",
+      "name": "France 3",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png?h=100",
+      "tags": [
+        "GÉNÉRALISTE",
+        "RÉGIONALE",
+        "PUBLIQUE"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "France4.fr",
+      "name": "France 4",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png?h=100",
+      "tags": [
+        "JEUNESSE",
+        "FAMILLE",
+        "PUBLIQUE"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "France5.fr",
+      "name": "France 5",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png?h=100",
+      "tags": [
+        "DOCUMENTAIRE",
+        "CULTURE",
+        "PUBLIQUE"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "M6.fr",
+      "name": "M6",
+      "logo": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/M6100x100.png?h=100",
+      "tags": [
+        "GÉNÉRALISTE",
+        "DIVERTISSEMENT",
+        "SÉRIES"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "Arte.fr",
+      "name": "Arte",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100",
+      "tags": [
+        "CULTURE",
+        "DOCUMENTAIRE",
+        "PUBLIQUE"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "LaChaineParlementaire.fr",
+      "name": "LCP / Public Sénat",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100",
+      "tags": [
+        "POLITIQUE",
+        "INFORMATION",
+        "PUBLIQUE"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "W9.fr",
+      "name": "W9",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/W9_color.png?h=100",
+      "tags": [
+        "DIVERTISSEMENT",
+        "MUSIQUE",
+        "SÉRIES"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "TMC.fr",
+      "name": "TMC",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png?h=100",
+      "tags": [
+        "DIVERTISSEMENT",
+        "MAGAZINE",
+        "SÉRIES"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "NT1.fr",
+      "name": "TFX",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png?h=100",
+      "tags": [
+        "TÉLÉ-RÉALITÉ",
+        "JEUNESSE",
+        "DIVERTISSEMENT"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "Gulli.fr",
+      "name": "Gulli",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Gulli_color.png?h=100",
+      "tags": [
+        "ENFANT",
+        "JEUNESSE",
+        "FAMILLE"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "BFMTV.fr",
+      "name": "BFMTV",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_TV_color.png?h=100",
+      "tags": [
+        "INFORMATION",
+        "ACTUALITÉ"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "CNews.fr",
+      "name": "CNews",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100",
+      "tags": [
+        "INFORMATION",
+        "DÉBAT"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "LCI.fr",
+      "name": "LCI",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png?h=100",
+      "tags": [
+        "INFORMATION",
+        "ANALYSE"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "FranceInfo.fr",
+      "name": "Franceinfo",
+      "logo": "https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/franceinfoblack100x100.png?h=100",
+      "tags": [
+        "INFORMATION",
+        "PUBLIQUE"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "CStar.fr",
+      "name": "CStar",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png?h=100",
+      "tags": [
+        "MUSIQUE",
+        "DIVERTISSEMENT"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "T18.fr",
+      "name": "T18",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_de_la_chaine_T18.svg/250px-Logo_de_la_chaine_T18.svg.png",
+      "tags": [
+        "INFORMATION",
+        "LOCALE"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "NOVO19.fr",
+      "name": "NOVO19",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/330px-Logo_NOVO19_-_2025.svg.png",
+      "tags": [
+        "INFORMATION",
+        "LOCALE"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "TF1SeriesFilms.fr",
+      "name": "TF1 Séries Films",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png?h=100",
+      "tags": [
+        "SÉRIES",
+        "FILMS"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "LEquipe21.fr",
+      "name": "L'Équipe",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png?h=100",
+      "tags": [
+        "SPORT",
+        "INFORMATION"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "6ter.fr",
+      "name": "6ter",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/6ter_color.png?h=100",
+      "tags": [
+        "FAMILLE",
+        "DOCUMENTAIRE",
+        "SÉRIES"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "Numero23.fr",
+      "name": "RMC Story",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_STORY_color.png?h=100",
+      "tags": [
+        "DOCUMENTAIRE",
+        "FAITS DIVERS"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "RMCDecouverte.fr",
+      "name": "RMC Découverte",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Decouverte_color.png?h=100",
+      "tags": [
+        "DOCUMENTAIRE",
+        "SCIENCES",
+        "HISTOIRE"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
+    {
+      "id": "Cherie25.fr",
+      "name": "Chérie 25",
+      "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Cherie_25_color.png?h=100",
+      "tags": [
+        "FILMS",
+        "SÉRIES",
+        "FÉMININ"
+      ],
+      "pays": "FR",
+      "langue": "FR"
+    },
     {
       "id": "CanalPlus.fr",
       "name": "Canal+",
       "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png?h=100",
-      "tags": ["Généraliste"],
+      "tags": [
+        "Généraliste"
+      ],
       "pays": "FR",
       "langue": "FR"
-    },{
+    },
+    {
       "id": "PlanetePlus.fr",
       "name": "Planète+",
       "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/PlanetePlus_2011.svg/202px-PlanetePlus_2011.svg.png",
-      "tags": ["Généraliste"],
+      "tags": [
+        "Généraliste"
+      ],
       "pays": "FR",
       "langue": "FR"
     },
@@ -221,15 +315,19 @@
       "id": "TV5Monde.fr",
       "name": "TV5 Monde France Belgique Suisse Monaco",
       "logo": "https://www.logotheque-vectorielle.fr/wp-content/uploads/2024/10/logo-vectoriel-tv5-monde.jpg",
-      "tags": ["Généraliste"],
+      "tags": [
+        "Généraliste"
+      ],
       "pays": "FR",
       "langue": "FR"
     },
-     {
+    {
       "id": "LeFigaroTV",
       "name": "Le Figaro TV",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ_432P1_axB3CeJUrziYKfN_mqTzsSdqT-A&s",
-      "tags": ["Généraliste"],
+      "tags": [
+        "Généraliste"
+      ],
       "pays": "FR",
       "langue": "FR"
     },
@@ -237,15 +335,69 @@
       "id": "AlJazeera",
       "name": "Al Jazeera",
       "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/120px-Al_Jazeera.svg.png",
-      "tags": ["NEWS"],
+      "tags": [
+        "NEWS"
+      ],
       "pays": "QA",
+      "langue": "AR"
+    },
+    {
+      "id": "AlManar",
+      "name": "Al Manar",
+      "logo": "https://upload.wikimedia.org/wikipedia/en/8/81/New_Al-Manar_logo.PNG",
+      "tags": [
+        "NEWS"
+      ],
+      "pays": "LB",
+      "langue": "AR"
+    },
+    {
+      "id": "AlAlam",
+      "name": "Al-Alam",
+      "logo": "https://upload.wikimedia.org/wikipedia/ar/2/20/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85.png",
+      "tags": [
+        "NEWS"
+      ],
+      "pays": "IR",
+      "langue": "AR"
+    },
+    {
+      "id": "RTArabic.ru",
+      "name": "RT Arabic",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png",
+      "tags": [
+        "NEWS"
+      ],
+      "pays": "RU",
+      "langue": "AR"
+    },
+    {
+      "id": "AljazeeraDoc",
+      "name": "Al Jazeera Documentary",
+      "logo": "https://yt3.googleusercontent.com/KIFchyPKtitq9qjQnvmiCgh3M_3DIP_hL2xga_6SpQeJgWaU3lPnnH4tyEBy-z06x5o89y9nVyA=s900-c-k-c0x00ffffff-no-rj",
+      "tags": [
+        "DOCUMENTARY"
+      ],
+      "pays": "QA",
+      "langue": "AR"
+    },
+    {
+      "id": "NATGEOAD",
+      "name": "National Geographic Abu Dhabi",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Nat_geo_channel_abu_dhabi.png",
+      "tags": [
+        "DOCUMENTARY"
+      ],
+      "pays": "AE",
       "langue": "AR"
     },
     {
       "id": "beINSPORTS1.fr",
       "name": "beIN SPORTS 1 FR",
       "logo": "https://www.programme-tv.net/imgre/fit/~2~channel~8884f09c3361af44.png/1200x630/crop-from/top/quality/80/bein-sports-1.png",
-      "tags": ["SPORTS"],
+      "tags": [
+        "SPORTS"
+      ],
       "pays": "FR",
       "langue": "FR"
     },
@@ -253,7 +405,9 @@
       "id": "beINSPORTS2.fr",
       "name": "beIN SPORTS 2 FR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/960px-Logo_bein_sports_2.png",
-      "tags": ["SPORTS"],
+      "tags": [
+        "SPORTS"
+      ],
       "pays": "FR",
       "langue": "FR"
     },
@@ -261,7 +415,9 @@
       "id": "beINSPORTS3.fr",
       "name": "beIN SPORTS 3 FR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/960px-Logo_bein_sports_3.png",
-      "tags": ["SPORTS"],
+      "tags": [
+        "SPORTS"
+      ],
       "pays": "FR",
       "langue": "FR"
     },
@@ -269,7 +425,9 @@
       "id": "beINSPORTS1Ar",
       "name": "beIN SPORTS 1 AR",
       "logo": "https://www.programme-tv.net/imgre/fit/~2~channel~8884f09c3361af44.png/1200x630/crop-from/top/quality/80/bein-sports-1.png",
-      "tags": ["SPORTS"],
+      "tags": [
+        "SPORTS"
+      ],
       "pays": "QA",
       "langue": "AR"
     },
@@ -277,7 +435,9 @@
       "id": "beINSPORTS2Ar",
       "name": "beIN SPORTS 2 AR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/960px-Logo_bein_sports_2.png",
-      "tags": ["SPORTS"],
+      "tags": [
+        "SPORTS"
+      ],
       "pays": "QA",
       "langue": "AR"
     },
@@ -285,7 +445,9 @@
       "id": "beINSPORTS3Ar",
       "name": "beIN SPORTS 3 FR",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/960px-Logo_bein_sports_3.png",
-      "tags": ["SPORTS"],
+      "tags": [
+        "SPORTS"
+      ],
       "pays": "QA",
       "langue": "AR"
     }
