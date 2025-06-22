@@ -240,10 +240,8 @@
     "id": "Cherie25.fr",
     "sources": [
       {
-        "source": "En Direct TV",
-        "label": "En Direct TV #1",
-        "param": "cherie25",
-        "link": "https://endirecttv.com/cherie-25-direct/1/cherie25"
+        "source": "Stream",
+        "link": "https://cherie25.nrjaudio.fm/hls/live/2038375/c25/4/media.m3u8"
       }
     ]
   },
@@ -354,11 +352,11 @@
     "id": "Numero23.fr",
     "sources": [
       {
-        "source": "Stream4free Live",
-        "link": "https://www.stream4free.tv/rmc-story"
-      },{
         "source": "FreeShot",
         "link": "https://popcdn.day/stream/RMCSTORY.php"
+      },{
+        "source": "Stream4free Live",
+        "link": "https://www.stream4free.tv/rmc-story"
       }
     ]
   },
