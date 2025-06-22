@@ -415,5 +415,61 @@
         "param": "https://play.frembed.club/",
         "link": "https://play.frembed.club/api/player.php?id=84"
       }]
+  },
+  {
+    "id": "T18.fr",
+    "sources": [
+      {
+        "source": "ParaTV",
+        "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8"
+      }]
+  },
+  {
+    "id": "AljazeeraDoc",
+    "sources": [
+      {
+        "source": "Youtube",
+        "link": "https://www.youtube.com/channel/UC0LSnqrwqtMwl2YwfUpO66g/live"
+      }]
+  },
+  {
+    "id": "NATGEOAD",
+    "sources": [
+      {
+        "source": "Stream",
+        "link": "https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8"
+      }]
+  },
+  {
+    "id": "RTArabic.ru",
+    "sources": [
+      {
+        "source": "Stream",
+        "link": "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8"
+      }]
+  },
+  {
+    "id": "AlAlam",
+    "sources": [
+      {
+        "source": "Stream",
+        "link": "https://live2.alalam.ir/alalam.m3u8"
+      }]
+  },
+  {
+    "id": "AlManar",
+    "sources": [
+      {
+        "source": "Stream",
+        "link": "https://edge.fastpublish.me/live/index.m3u8"
+      }]
+  },
+  {
+    "id": "T18.fr",
+    "sources": [
+      {
+        "source": "ParaTV",
+        "link": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8"
+      }]
   }
 ]
