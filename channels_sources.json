@@ -495,5 +495,13 @@
         "source": "Stream #1",
         "link": "https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8"
       }]
+  },
+  {
+    "id": "PressTV",
+    "sources": [
+      {
+        "source": "Stream #1",
+        "link": "https://live.presstv.ir/hls/presstv.m3u8"
+      }]
   }
 ]
