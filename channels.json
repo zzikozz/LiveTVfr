@@ -1,6 +1,6 @@
 {
-  "appVersion": "LiveTVfr.v0.2-beta.AndroidTV",
-  "channelsVersion": 10,
+  "appVersion": "LiveTVfr.v0.21-beta.AndroidTV",
+  "channelsVersion": 11,
   "channels": [
     {
       "id": "TF1.fr",
@@ -360,6 +360,16 @@
       ],
       "pays": "IR",
       "langue": "AR"
+    },
+    {
+      "id": "PressTV",
+      "name": "PressTV",
+      "logo": "https://www.presstv.ir/custom/images/logo-app/LOGO_192x192.jpg",
+      "tags": [
+        "NEWS"
+      ],
+      "pays": "IR",
+      "langue": "EN"
     },
     {
       "id": "RTArabic.ru",
