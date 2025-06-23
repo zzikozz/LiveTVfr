@@ -66,9 +66,8 @@
     "id": "Gulli.fr",
     "sources": [
       {
-        "source": "Live HDTV / En Direct TV",
-        "label": "Live HDTV #1",
-        "link": "https://www.livehdtv.com/gulli/1/"
+        "source": "Stream #1",
+        "link": "https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8"
       }
     ]
   },
@@ -262,9 +261,8 @@
     "id": "BFMTV.fr",
     "sources": [
       {
-        "source": "En Direct TV",
-        "label": "En Direct TV #1",
-        "link": "https://endirecttv.com/bfm-tv-direct/1/bfmtv"
+        "source": "Stream #1",
+        "link": "https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END"
       }
     ]
   },
