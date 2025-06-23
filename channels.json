@@ -1,6 +1,6 @@
 {
   "appVersion": "LiveTVfr.v0.2-beta.AndroidTV",
-  "channelsVersion": 9,
+  "channelsVersion": 10,
   "channels": [
     {
       "id": "TF1.fr",
@@ -369,6 +369,24 @@
         "NEWS"
       ],
       "pays": "RU",
+      "langue": "AR"
+    },{
+      "id": "Almasirah",
+      "name": "Almasirah",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1%D8%A9.svg/330px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%B1%D8%A9.svg.png",
+      "tags": [
+        "NEWS"
+      ],
+      "pays": "YE",
+      "langue": "AR"
+    },{
+      "id": "AlmasirahMubasher",
+      "name": "Almasirah Mubasher",
+      "logo": "https://online-television.net/uploads/posts/2023-01/almasirah-mubasher.webp",
+      "tags": [
+        "NEWS"
+      ],
+      "pays": "YE",
       "langue": "AR"
     },
     {
